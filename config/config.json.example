@@ -1,0 +1,6 @@
+{
+  "api_key": "YOUR_API_KEY_HERE",
+  "secret_key": "YOUR_SECRET_KEY_HERE",
+  "base_url": "https://api.hibt.com",
+  "sandbox_mode": true
+}
